@@ -2,6 +2,8 @@
 
 # Risorse utili:
 
+- MVC Pattern [Doc](../risorse/mvc_pattern.md)
+
 
 
 <!--
