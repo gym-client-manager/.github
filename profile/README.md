@@ -4,6 +4,8 @@
 
 - MVC Pattern [Doc](../risorse/mvc_pattern.md)
 
+- Flutter Testing [Doc](../risorse/flutter_test.md) 
+
 
 
 <!--
